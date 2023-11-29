@@ -102,3 +102,7 @@ Or
 ```shell
 cmake . -Bstatic -G "Visual Studio 15 2017" -DCMAKE_VERBOSE_MAKEFILE=ON
 cmake --build static --config Release
+
+## Example
+https://github.com/melchi45/NN_Analysis
+https://github.com/melchi45/SOM_Cluster
